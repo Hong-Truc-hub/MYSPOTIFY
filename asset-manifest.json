@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MYSPOTIFY/static/css/main.a0abff9e.css",
+    "main.js": "/MYSPOTIFY/static/js/main.315ce4d3.js",
+    "static/js/453.e693f591.chunk.js": "/MYSPOTIFY/static/js/453.e693f591.chunk.js",
+    "index.html": "/MYSPOTIFY/index.html",
+    "main.a0abff9e.css.map": "/MYSPOTIFY/static/css/main.a0abff9e.css.map",
+    "main.315ce4d3.js.map": "/MYSPOTIFY/static/js/main.315ce4d3.js.map",
+    "453.e693f591.chunk.js.map": "/MYSPOTIFY/static/js/453.e693f591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0abff9e.css",
+    "static/js/main.315ce4d3.js"
+  ]
+}
